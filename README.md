@@ -1,2 +1,2 @@
-# devs1-repo-
-CICD repo
+# etechApp1
+The first Team3 Group2 Git Project
